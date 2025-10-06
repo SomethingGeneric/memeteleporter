@@ -10,6 +10,13 @@ Memeteleporter is a Python script that automatically identifies and separates me
 
 Once identified, memes are cached locally and optionally deleted from Immich to keep your photo library clean and organized.
 
+## Documentation
+
+- 📖 **[QUICKSTART.md](QUICKSTART.md)** - Get started in 5 minutes
+- 📚 **[USAGE_GUIDE.md](USAGE_GUIDE.md)** - Comprehensive usage instructions
+- 🔧 **[IMPLEMENTATION_SUMMARY.md](IMPLEMENTATION_SUMMARY.md)** - Technical documentation
+- 💻 **[example_usage.py](example_usage.py)** - Programmatic API examples
+
 ## Features
 
 - 🔍 Automatically detects screenshots in Immich
