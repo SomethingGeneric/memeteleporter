@@ -30,8 +30,8 @@ class ImmichClient:
             List of asset dictionaries
         """
         try:
-            response = requests.get(
-                f"{self.api_url}/assets",
+            response = requests.post(
+                f"{self.api_url}/search/metadata",
                 headers=self.headers,
                 timeout=30
             )
